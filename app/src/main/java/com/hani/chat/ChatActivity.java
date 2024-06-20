@@ -63,7 +63,6 @@ public class ChatActivity extends AppCompatActivity {
             finish(); // ChatActivity를 종료하고 LoginActivity로 이동
             return; // 추가 코드 실행 방지
         }
-
         userId = currentUser.getUid();
         selectedUserId = getIntent().getStringExtra("selectedUserId");
         receiverId = selectedUserId;

@@ -7,6 +7,7 @@ public class Message {
     private String receiverId;
     private long timestamp;
 
+
     public Message() {
         // Default constructor required for calls to DataSnapshot.getValue(Message.class)
     }

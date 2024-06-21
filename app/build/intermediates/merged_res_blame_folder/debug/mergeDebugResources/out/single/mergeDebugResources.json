@@ -1,106 +1,110 @@
 [
     {
-        "merged": "com.hani.chat.app-debug-36:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.hani.chat.app-main-38:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/drawable_message_background_left.xml.flat",
-        "source": "com.hani.chat.app-main-38:/drawable/message_background_left.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\activity_chat.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_message_item_right.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\message_item_right.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_message_item.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/message_item.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\drawable_message_background_left.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\drawable\\message_background_left.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_activity_login.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/activity_login.xml"
-    },
-    {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "com.hani.chat.app-debug-36:/layout_activity_chat.xml.flat",
         "source": "com.hani.chat.app-main-38:/layout/activity_chat.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/xml_backup_rules.xml.flat",
-        "source": "com.hani.chat.app-main-38:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_message_item_left.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/message_item_left.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.hani.chat.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/drawable_message_background_right.xml.flat",
-        "source": "com.hani.chat.app-main-38:/drawable/message_background_right.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_activity_user_list.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\activity_user_list.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_message_item_right.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/message_item_right.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_activity_user_list.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/activity_user_list.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\drawable_message_background_right.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\drawable\\message_background_right.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_activity_main.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/xml_data_extraction_rules.xml.flat",
-        "source": "com.hani.chat.app-main-38:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\user_item.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.hani.chat.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.hani.chat.app-debug-36:/layout_user_item.xml.flat",
-        "source": "com.hani.chat.app-main-38:/layout/user_item.xml"
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_message_item.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-debug-36:\\layout_message_item_left.xml.flat",
+        "source": "C:\\Users\\406\\.gradle\\daemon\\8.6\\com.hani.chat.app-main-38:\\layout\\message_item_left.xml"
     }
 ]

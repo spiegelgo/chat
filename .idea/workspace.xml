@@ -51,7 +51,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc24623-0411-4279-834a-48da0de4825c" name="Changes" comment="업업" />
+    <list default="true" id="adc24623-0411-4279-834a-48da0de4825c" name="Changes" comment="업업">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/ChatActivity.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +118,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -134,7 +139,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Reverting in main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/406/Documents/hani/Chat",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -146,6 +151,7 @@
       <recent name="C:\Users\406\Documents\hani\Chat" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\406\Documents\GitHub\chat\app\src\main\java" />
       <recent name="C:\Users\406\Documents\hani\Chat\app" />
     </key>
     <key name="android.template.-638746857">

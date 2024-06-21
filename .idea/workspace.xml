@@ -51,15 +51,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="adc24623-0411-4279-834a-48da0de4825c" name="Changes" comment="업업">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/UserListActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/adapter/MessageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/adapter/UserAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/model/User.java" afterDir="false" />
+    <list default="true" id="adc24623-0411-4279-834a-48da0de4825c" name="Changes" comment="업">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hani/chat/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,6 +224,19 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Chat" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -263,12 +271,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718873367677</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="업">
+      <option name="closed" value="true" />
+      <created>1718933366665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718933366665</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="업데이트" />
     <MESSAGE value="업업" />
-    <option name="LAST_COMMIT_MESSAGE" value="업업" />
+    <MESSAGE value="업" />
+    <option name="LAST_COMMIT_MESSAGE" value="업" />
   </component>
 </project>

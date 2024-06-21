@@ -1,9 +1,5 @@
 package com.hani.chat;
 
-
-
-
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -30,7 +26,6 @@ import com.hani.chat.adapter.MessageAdapter;
 import com.hani.chat.adapter.UserAdapter;
 import com.hani.chat.model.Message;
 import com.hani.chat.model.User;
-
 
 import java.util.ArrayList;
 import java.util.List;

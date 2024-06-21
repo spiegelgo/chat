@@ -3251,9 +3251,9 @@ int id browser_actions_menu_item_icon 0x7f080065
 int id browser_actions_menu_item_text 0x7f080066
 int id browser_actions_menu_items 0x7f080067
 int id browser_actions_menu_view 0x7f080068
+int id btnSend 0x7f08020a
 int id buttonLogin 0x7f080069
 int id buttonPanel 0x7f08006a
-int id buttonSend 0x7f08006b
 int id buttonSignup 0x7f08006c
 int id cache_measures 0x7f08006d
 int id callMeasure 0x7f08006e
@@ -3328,8 +3328,8 @@ int id easeInOut 0x7f0800b2
 int id easeOut 0x7f0800b3
 int id east 0x7f0800b4
 int id edge 0x7f0800b5
+int id editText 0x7f08020b
 int id editTextEmail 0x7f0800b6
-int id editTextMessage 0x7f0800b7
 int id editTextPassword 0x7f0800b8
 int id edit_query 0x7f0800b9
 int id edit_text_id 0x7f0800ba
@@ -3402,7 +3402,6 @@ int id line1 0x7f0800fc
 int id line3 0x7f0800fd
 int id linear 0x7f0800fe
 int id listMode 0x7f0800ff
-int id listViewMessages 0x7f080100
 int id listViewUsers 0x7f080101
 int id list_item 0x7f080102
 int id m3_side_sheet 0x7f080103
@@ -3523,6 +3522,7 @@ int id progress_horizontal 0x7f080175
 int id radio 0x7f080176
 int id ratio 0x7f080177
 int id rectangles 0x7f080178
+int id recyclerViewMessages 0x7f08020d
 int id report_drawn 0x7f080179
 int id reverseSawtooth 0x7f08017a
 int id right 0x7f08017b
@@ -3554,6 +3554,7 @@ int id search_voice_btn 0x7f080194
 int id select_dialog_listview 0x7f080195
 int id selected 0x7f080196
 int id selection_type 0x7f080197
+int id senderNameTextView 0x7f08020c
 int id sharedValueSet 0x7f080198
 int id sharedValueUnset 0x7f080199
 int id shortcut 0x7f08019a
